@@ -1,0 +1,42 @@
+.fruits{
+  border: 2px solid black;
+  background-color: #b3d4fc;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+.FRUITS{
+  border: 2px solid blue;
+  text-align: center;
+  background-color: peachpuff;
+  padding: 20px;
+  margin: 20px;
+}
+#school{
+  border: 2px solid deepskyblue;
+  background-color: maroon;
+}
+th,td{
+  border: 3px solid black;
+}
+table{
+ border-collapse: separate;
+  width: 100px;
+}
+label{
+  background-color:white;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+
+  width: 20px;
+
+}
+input{
+  color:black;
+  background-color: palevioletred;
+  padding-left: 10px;
+  text-align: center;
+
+}
